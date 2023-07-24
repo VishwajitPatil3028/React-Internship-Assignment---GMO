@@ -1,0 +1,17 @@
+.SecondPage {
+}
+
+.greet {
+  
+  transform: translate(40%, 0%);
+}
+
+.model-wrapper2 {
+  /* position: fixed; */
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  max-width: 100% !important ;
+  background-color: rgba(246, 243, 186, 0.7);
+}

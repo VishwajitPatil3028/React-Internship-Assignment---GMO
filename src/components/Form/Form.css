@@ -1,0 +1,53 @@
+.Form {
+  /* position: fixed; */
+  /* top: 50%; */
+  /* left: 50%; */
+  /* transform: translate(-50%, -50%); */
+  /* max-width: 75% !important; */
+  /* border-radius: 0.6rem; */
+  /* max-width: 100% !important ; */
+  /* max-height: 100% !important ; */
+  
+}
+
+.box {
+  width: 75%;
+  height: auto;
+  position: absolute;
+  padding: 20px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #fff;
+}
+
+.blue-button {
+  background-color: rgb(85, 180, 180) !important;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.model-wrapper {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  max-width: 100% !important ;
+  background-color: rgba(246, 243, 186, 0.7);
+}
+
+.model-container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /* max-width: 75% !important; */
+  border-radius: 0.6rem;
+  max-width: 80% !important ;
+  max-height: 80% !important ;
+}
